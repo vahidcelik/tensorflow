@@ -109,7 +109,7 @@ The TensorFlow project strives to abide by generally accepted best practices in 
 * [TensorFlow MOOC on Udacity](https://www.udacity.com/course/deep-learning--ud730)
 * [TensorFlow Course at Stanford](https://web.stanford.edu/class/cs20si)
 
-Learn more about the TensorFlow community at the [community page of tensorflow.org](https://www.tensorflow.org/community) for a few ways to participate.
+Learn more about the TensorFlow community at the [community page of tensorflow.org](https://www.tensorflow.org/community) for a few ways to participate...
 
 ## License
 
